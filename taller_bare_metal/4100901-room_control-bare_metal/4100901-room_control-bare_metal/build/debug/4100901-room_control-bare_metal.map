@@ -1,0 +1,1383 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-exit.o)
+                              C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (exit)
+C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-findfp.o)
+                              C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-exit.o) (__stdio_exit_handler)
+C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-fwalk.o)
+                              C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-findfp.o) (_fwalk_sglue)
+C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-stdio.o)
+                              C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-findfp.o) (__sread)
+C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-memset.o)
+                              C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (memset)
+C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-closer.o)
+                              C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-stdio.o) (_close_r)
+C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-reent.o)
+                              C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-closer.o) (errno)
+C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-impure.o)
+                              C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-reent.o) (_impure_ptr)
+C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-lseekr.o)
+                              C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-stdio.o) (_lseek_r)
+C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-readr.o)
+                              C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-stdio.o) (_read_r)
+C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-writer.o)
+                              C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-stdio.o) (_write_r)
+C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-init.o)
+                              C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (__libc_init_array)
+C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-lock.o)
+                              C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-findfp.o) (__retarget_lock_init_recursive)
+C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-__call_atexit.o)
+                              C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-exit.o) (__call_exitprocs)
+C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-atexit.o)
+                              C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-__call_atexit.o) (atexit)
+C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-freer.o)
+                              C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-reent.o) (_free_r)
+C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-mallocr.o)
+                              C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-findfp.o) (_malloc_r)
+C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-mlock.o)
+                              C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-freer.o) (__malloc_lock)
+C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-fclose.o)
+                              C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-findfp.o) (_fclose_r)
+C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-fflush.o)
+                              C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-fclose.o) (__sflush_r)
+C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-sbrkr.o)
+                              C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-freer.o) (_sbrk_r)
+C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-fini.o)
+                              C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-__call_atexit.o) (__libc_fini_array)
+C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-sysconf.o)
+                              C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-freer.o) (sysconf)
+C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-__atexit.o)
+                              C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-atexit.o) (__register_exitproc)
+C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-errno.o)
+                              C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-sysconf.o) (__errno)
+C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-atoi.o)
+                              CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj (atoi)
+C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-strtol.o)
+                              C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-atoi.o) (_strtol_r)
+C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-ctype_.o)
+                              C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-strtol.o) (_ctype_)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crti.o
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x00000000        0x4 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .rodata        0x00000000       0x24 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text          0x00000000       0x7c C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.extab     0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.exidx     0x00000000       0x10 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.attributes
+                0x00000000       0x20 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-exit.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-exit.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-exit.o)
+ .text.exit     0x00000000       0x1c C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-exit.o)
+ .debug_frame   0x00000000       0x28 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x34 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-exit.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-findfp.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-findfp.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-findfp.o)
+ .text.std      0x00000000       0x6c C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-findfp.o)
+ .text.stdio_exit_handler
+                0x00000000       0x18 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-findfp.o)
+ .text.cleanup_stdio
+                0x00000000       0x40 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-findfp.o)
+ .text.__fp_lock
+                0x00000000       0x18 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-findfp.o)
+ .text.__fp_unlock
+                0x00000000       0x18 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-findfp.o)
+ .text.global_stdio_init.part.0
+                0x00000000       0x3c C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-findfp.o)
+ .text.__sfp_lock_acquire
+                0x00000000        0xc C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-findfp.o)
+ .text.__sfp_lock_release
+                0x00000000        0xc C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-findfp.o)
+ .text.__sfp    0x00000000       0xa4 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-findfp.o)
+ .text.__sinit  0x00000000       0x30 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-findfp.o)
+ .text.__fp_lock_all
+                0x00000000       0x1c C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-findfp.o)
+ .text.__fp_unlock_all
+                0x00000000       0x1c C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-findfp.o)
+ .data.__sglue  0x00000000        0xc C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-findfp.o)
+ .bss.__stdio_exit_handler
+                0x00000000        0x4 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-findfp.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-fwalk.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-fwalk.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-fwalk.o)
+ .text._fwalk_sglue
+                0x00000000       0x3c C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-fwalk.o)
+ .debug_frame   0x00000000       0x34 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-fwalk.o)
+ .ARM.attributes
+                0x00000000       0x34 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-fwalk.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-stdio.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-stdio.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-stdio.o)
+ .text.__sread  0x00000000       0x22 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-stdio.o)
+ .text.__seofread
+                0x00000000        0x4 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-stdio.o)
+ .text.__swrite
+                0x00000000       0x38 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-stdio.o)
+ .text.__sseek  0x00000000       0x24 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-stdio.o)
+ .text.__sclose
+                0x00000000        0x8 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-stdio.o)
+ .debug_frame   0x00000000       0x88 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-stdio.o)
+ .ARM.attributes
+                0x00000000       0x34 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-stdio.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-memset.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-memset.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-memset.o)
+ .text.memset   0x00000000       0x10 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-memset.o)
+ .debug_frame   0x00000000       0x20 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x34 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-memset.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-closer.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-closer.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-closer.o)
+ .text._close_r
+                0x00000000       0x20 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-closer.o)
+ .debug_frame   0x00000000       0x2c C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-closer.o)
+ .ARM.attributes
+                0x00000000       0x34 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-closer.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-reent.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-reent.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0x68 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-reent.o)
+ .bss.errno     0x00000000        0x4 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-reent.o)
+ .debug_frame   0x00000000       0x38 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-reent.o)
+ .ARM.attributes
+                0x00000000       0x34 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-reent.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-impure.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-impure.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-impure.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-lseekr.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-lseekr.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-lseekr.o)
+ .text._lseek_r
+                0x00000000       0x24 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-lseekr.o)
+ .debug_frame   0x00000000       0x2c C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-lseekr.o)
+ .ARM.attributes
+                0x00000000       0x34 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-lseekr.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-readr.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-readr.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-readr.o)
+ .text._read_r  0x00000000       0x24 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-readr.o)
+ .debug_frame   0x00000000       0x2c C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-readr.o)
+ .ARM.attributes
+                0x00000000       0x34 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-readr.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-writer.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-writer.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-writer.o)
+ .text._write_r
+                0x00000000       0x24 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-writer.o)
+ .debug_frame   0x00000000       0x2c C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-writer.o)
+ .ARM.attributes
+                0x00000000       0x34 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-writer.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-init.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-init.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-init.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-lock.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-lock.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x2 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x2 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x2 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x2 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x2 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x2 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x00000000        0x1 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x00000000        0x1 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x00000000        0x1 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x00000000        0x1 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-lock.o)
+ .bss.__lock___malloc_recursive_mutex
+                0x00000000        0x1 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x00000000        0x1 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x00000000        0x1 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-lock.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-__call_atexit.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-__call_atexit.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xac C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-__call_atexit.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-atexit.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-atexit.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-atexit.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-freer.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-freer.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-freer.o)
+ .text._malloc_trim_r
+                0x00000000       0xac C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-freer.o)
+ .text._free_r  0x00000000      0x180 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-freer.o)
+ .debug_frame   0x00000000       0x60 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-freer.o)
+ .ARM.attributes
+                0x00000000       0x34 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-freer.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-mallocr.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-mallocr.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-mallocr.o)
+ .text._malloc_r
+                0x00000000      0x474 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-mallocr.o)
+ .bss.__malloc_current_mallinfo
+                0x00000000       0x28 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-mallocr.o)
+ .bss.__malloc_max_total_mem
+                0x00000000        0x4 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-mallocr.o)
+ .bss.__malloc_max_sbrked_mem
+                0x00000000        0x4 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-mallocr.o)
+ .data.__malloc_sbrk_base
+                0x00000000        0x4 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-mallocr.o)
+ .bss.__malloc_top_pad
+                0x00000000        0x4 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-mallocr.o)
+ .data.__malloc_trim_threshold
+                0x00000000        0x4 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-mallocr.o)
+ .data.__malloc_av_
+                0x00000000      0x408 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-mallocr.o)
+ .debug_frame   0x00000000       0x40 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-mallocr.o)
+ .ARM.attributes
+                0x00000000       0x34 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-mallocr.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-mlock.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-mlock.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-mlock.o)
+ .text.__malloc_lock
+                0x00000000        0xc C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-mlock.o)
+ .text.__malloc_unlock
+                0x00000000        0xc C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-mlock.o)
+ .debug_frame   0x00000000       0x30 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-mlock.o)
+ .ARM.attributes
+                0x00000000       0x34 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-mlock.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-fclose.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-fclose.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-fclose.o)
+ .text._fclose_r
+                0x00000000       0xac C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-fclose.o)
+ .text.fclose   0x00000000       0x10 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-fclose.o)
+ .debug_frame   0x00000000       0x3c C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-fclose.o)
+ .ARM.attributes
+                0x00000000       0x34 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-fclose.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-fflush.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-fflush.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-fflush.o)
+ .text.__sflush_r
+                0x00000000      0x110 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-fflush.o)
+ .text._fflush_r
+                0x00000000       0x4a C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-fflush.o)
+ .text.fflush   0x00000000       0x28 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-fflush.o)
+ .debug_frame   0x00000000       0x5c C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-fflush.o)
+ .ARM.attributes
+                0x00000000       0x34 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-fflush.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-sbrkr.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-sbrkr.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-sbrkr.o)
+ .text._sbrk_r  0x00000000       0x20 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-sbrkr.o)
+ .debug_frame   0x00000000       0x2c C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-sbrkr.o)
+ .ARM.attributes
+                0x00000000       0x34 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-sbrkr.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-fini.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-fini.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-fini.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-sysconf.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-sysconf.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-sysconf.o)
+ .text.sysconf  0x00000000       0x18 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-sysconf.o)
+ .debug_frame   0x00000000       0x28 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-sysconf.o)
+ .ARM.attributes
+                0x00000000       0x34 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-sysconf.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-__atexit.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-__atexit.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-__atexit.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-errno.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-errno.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-errno.o)
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/tim.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/tim.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/tim.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/tim.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/tim.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/tim.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/tim.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/tim.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/tim.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/tim.c.obj
+ .text          0x00000000        0x0 CMakeFiles/4100901-room_control-bare_metal.dir/Src/tim.c.obj
+ .data          0x00000000        0x0 CMakeFiles/4100901-room_control-bare_metal.dir/Src/tim.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/4100901-room_control-bare_metal.dir/Src/tim.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .text          0x00000000        0x0 CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .data          0x00000000        0x0 CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .rodata.room_control_app_init.str1.4
+                0x00000000       0x26 CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .text.room_control_app_init
+                0x00000000       0x1c CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .rodata.room_control_on_button_press.str1.4
+                0x00000000       0x2c CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .text.room_control_on_button_press
+                0x00000000       0x4c CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .rodata.room_control_on_uart_receive.str1.4
+                0x00000000       0x2e CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .text.room_control_on_uart_receive
+                0x00000000       0xa4 CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .rodata.room_control_update.str1.4
+                0x00000000       0x15 CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .text.room_control_update
+                0x00000000       0x3c CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .data.current_duty_cycle
+                0x00000000        0x1 CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .bss.last_button_press_time
+                0x00000000        0x4 CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .bss.current_state
+                0x00000000        0x1 CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .debug_info    0x00000000      0x33d CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .debug_abbrev  0x00000000      0x14b CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .debug_loclists
+                0x00000000       0x3f CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .debug_aranges
+                0x00000000       0x38 CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .debug_rnglists
+                0x00000000       0x26 CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .debug_macro   0x00000000       0xa3 CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .debug_macro   0x00000000      0xacc CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .debug_macro   0x00000000       0x51 CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .debug_macro   0x00000000      0x103 CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .debug_macro   0x00000000       0x6a CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .debug_macro   0x00000000      0x1df CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .debug_macro   0x00000000       0x16 CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .debug_macro   0x00000000       0x16 CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .debug_macro   0x00000000       0x3a CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .debug_line    0x00000000      0x495 CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .debug_str     0x00000000     0x438d CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .comment       0x00000000       0x44 CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .debug_frame   0x00000000       0x70 CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/nvic.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/nvic.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/nvic.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/nvic.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/nvic.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/nvic.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/nvic.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/nvic.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/nvic.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/nvic.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/nvic.c.obj
+ .text          0x00000000        0x0 CMakeFiles/4100901-room_control-bare_metal.dir/Src/nvic.c.obj
+ .data          0x00000000        0x0 CMakeFiles/4100901-room_control-bare_metal.dir/Src/nvic.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/4100901-room_control-bare_metal.dir/Src/nvic.c.obj
+ .debug_macro   0x00000000      0xacc CMakeFiles/4100901-room_control-bare_metal.dir/Src/nvic.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/4100901-room_control-bare_metal.dir/Src/nvic.c.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/4100901-room_control-bare_metal.dir/Src/nvic.c.obj
+ .debug_macro   0x00000000       0x51 CMakeFiles/4100901-room_control-bare_metal.dir/Src/nvic.c.obj
+ .debug_macro   0x00000000      0x103 CMakeFiles/4100901-room_control-bare_metal.dir/Src/nvic.c.obj
+ .debug_macro   0x00000000       0x6a CMakeFiles/4100901-room_control-bare_metal.dir/Src/nvic.c.obj
+ .debug_macro   0x00000000      0x1df CMakeFiles/4100901-room_control-bare_metal.dir/Src/nvic.c.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/4100901-room_control-bare_metal.dir/Src/nvic.c.obj
+ .debug_macro   0x00000000       0x16 CMakeFiles/4100901-room_control-bare_metal.dir/Src/nvic.c.obj
+ .debug_macro   0x00000000       0x16 CMakeFiles/4100901-room_control-bare_metal.dir/Src/nvic.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/uart.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/uart.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/uart.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/uart.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/uart.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/uart.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/uart.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/uart.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/uart.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/uart.c.obj
+ .text          0x00000000        0x0 CMakeFiles/4100901-room_control-bare_metal.dir/Src/uart.c.obj
+ .data          0x00000000        0x0 CMakeFiles/4100901-room_control-bare_metal.dir/Src/uart.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/4100901-room_control-bare_metal.dir/Src/uart.c.obj
+ .text.uart_receive
+                0x00000000       0x18 CMakeFiles/4100901-room_control-bare_metal.dir/Src/uart.c.obj
+ .debug_macro   0x00000000      0xacc CMakeFiles/4100901-room_control-bare_metal.dir/Src/uart.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/4100901-room_control-bare_metal.dir/Src/uart.c.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/4100901-room_control-bare_metal.dir/Src/uart.c.obj
+ .debug_macro   0x00000000       0x51 CMakeFiles/4100901-room_control-bare_metal.dir/Src/uart.c.obj
+ .debug_macro   0x00000000      0x103 CMakeFiles/4100901-room_control-bare_metal.dir/Src/uart.c.obj
+ .debug_macro   0x00000000       0x6a CMakeFiles/4100901-room_control-bare_metal.dir/Src/uart.c.obj
+ .debug_macro   0x00000000      0x1df CMakeFiles/4100901-room_control-bare_metal.dir/Src/uart.c.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/4100901-room_control-bare_metal.dir/Src/uart.c.obj
+ .debug_macro   0x00000000       0x16 CMakeFiles/4100901-room_control-bare_metal.dir/Src/uart.c.obj
+ .debug_macro   0x00000000       0x16 CMakeFiles/4100901-room_control-bare_metal.dir/Src/uart.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/gpio.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/gpio.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/gpio.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/gpio.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/gpio.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/gpio.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/gpio.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/gpio.c.obj
+ .text          0x00000000        0x0 CMakeFiles/4100901-room_control-bare_metal.dir/Src/gpio.c.obj
+ .data          0x00000000        0x0 CMakeFiles/4100901-room_control-bare_metal.dir/Src/gpio.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/4100901-room_control-bare_metal.dir/Src/gpio.c.obj
+ .debug_macro   0x00000000      0xacc CMakeFiles/4100901-room_control-bare_metal.dir/Src/gpio.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/4100901-room_control-bare_metal.dir/Src/gpio.c.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/4100901-room_control-bare_metal.dir/Src/gpio.c.obj
+ .debug_macro   0x00000000       0x51 CMakeFiles/4100901-room_control-bare_metal.dir/Src/gpio.c.obj
+ .debug_macro   0x00000000      0x103 CMakeFiles/4100901-room_control-bare_metal.dir/Src/gpio.c.obj
+ .debug_macro   0x00000000       0x6a CMakeFiles/4100901-room_control-bare_metal.dir/Src/gpio.c.obj
+ .debug_macro   0x00000000      0x1df CMakeFiles/4100901-room_control-bare_metal.dir/Src/gpio.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/rcc.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/rcc.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/rcc.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/rcc.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/rcc.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/rcc.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/rcc.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/rcc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/4100901-room_control-bare_metal.dir/Src/rcc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/4100901-room_control-bare_metal.dir/Src/rcc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/4100901-room_control-bare_metal.dir/Src/rcc.c.obj
+ .debug_macro   0x00000000      0xacc CMakeFiles/4100901-room_control-bare_metal.dir/Src/rcc.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/4100901-room_control-bare_metal.dir/Src/rcc.c.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/4100901-room_control-bare_metal.dir/Src/rcc.c.obj
+ .debug_macro   0x00000000       0x51 CMakeFiles/4100901-room_control-bare_metal.dir/Src/rcc.c.obj
+ .debug_macro   0x00000000      0x103 CMakeFiles/4100901-room_control-bare_metal.dir/Src/rcc.c.obj
+ .debug_macro   0x00000000       0x6a CMakeFiles/4100901-room_control-bare_metal.dir/Src/rcc.c.obj
+ .debug_macro   0x00000000      0x1df CMakeFiles/4100901-room_control-bare_metal.dir/Src/rcc.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/systick.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/systick.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/systick.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/systick.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/systick.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/systick.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/systick.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/systick.c.obj
+ .text          0x00000000        0x0 CMakeFiles/4100901-room_control-bare_metal.dir/Src/systick.c.obj
+ .data          0x00000000        0x0 CMakeFiles/4100901-room_control-bare_metal.dir/Src/systick.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/4100901-room_control-bare_metal.dir/Src/systick.c.obj
+ .text.systick_get_tick
+                0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/systick.c.obj
+ .debug_macro   0x00000000      0xacc CMakeFiles/4100901-room_control-bare_metal.dir/Src/systick.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/4100901-room_control-bare_metal.dir/Src/systick.c.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/4100901-room_control-bare_metal.dir/Src/systick.c.obj
+ .debug_macro   0x00000000       0x51 CMakeFiles/4100901-room_control-bare_metal.dir/Src/systick.c.obj
+ .debug_macro   0x00000000      0x103 CMakeFiles/4100901-room_control-bare_metal.dir/Src/systick.c.obj
+ .debug_macro   0x00000000       0x6a CMakeFiles/4100901-room_control-bare_metal.dir/Src/systick.c.obj
+ .debug_macro   0x00000000      0x1df CMakeFiles/4100901-room_control-bare_metal.dir/Src/systick.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/4100901-room_control-bare_metal.dir/Src/systick.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ .text          0x00000000        0x0 CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ .data          0x00000000        0x0 CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ .debug_macro   0x00000000      0xacc CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ .debug_macro   0x00000000       0x51 CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ .debug_macro   0x00000000      0x103 CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ .debug_macro   0x00000000       0x6a CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ .debug_macro   0x00000000      0x1df CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ .debug_macro   0x00000000       0x16 CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ .debug_macro   0x00000000       0x34 CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ .debug_macro   0x00000000       0x40 CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ .debug_macro   0x00000000       0x16 CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .text          0x00000000        0x0 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .data          0x00000000        0x0 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .text.initialise_monitor_handles
+                0x00000000        0x2 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .text._getpid  0x00000000        0x4 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .text._kill    0x00000000       0x10 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .text._exit    0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .text._read    0x00000000       0x20 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .text._write   0x00000000       0x1c CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .text._close   0x00000000        0x6 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .text._fstat   0x00000000        0xa CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .text._isatty  0x00000000        0x4 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .text._lseek   0x00000000        0x4 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .text._open    0x00000000        0xa CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .text._wait    0x00000000       0x10 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .text._unlink  0x00000000       0x10 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .text._times   0x00000000        0x6 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .text._stat    0x00000000        0xa CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .text._link    0x00000000       0x10 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .text._fork    0x00000000       0x10 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .text._execve  0x00000000       0x10 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .data.environ  0x00000000        0x4 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .bss.__env     0x00000000        0x4 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_info    0x00000000      0x78d CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_abbrev  0x00000000      0x1c3 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_loclists
+                0x00000000      0x2cd CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_aranges
+                0x00000000       0xa8 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_rnglists
+                0x00000000       0x79 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000      0x265 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000      0xacc CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x6e CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x2a CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x94 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x3c CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x34 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x57 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000      0x190 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000      0x370 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x16 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x4a CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x34 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x58 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000      0x1e5 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x3c CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x6a CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x1c CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x52 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x52 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0xcf CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x1c CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x3d CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x35 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000      0x12c CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x16 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x16 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x29 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000      0x242 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x1c CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x16 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000      0x170 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000      0x103 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000      0x1df CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000      0x18a CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x16 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0xce CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_line    0x00000000      0x734 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_str     0x00000000     0x94c8 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .comment       0x00000000       0x44 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .debug_frame   0x00000000      0x190 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .text          0x00000000        0x0 CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .data          0x00000000        0x0 CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .text._sbrk    0x00000000       0x48 CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .bss.__sbrk_heap_end
+                0x00000000        0x4 CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .debug_info    0x00000000      0x175 CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .debug_abbrev  0x00000000       0xec CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .debug_loclists
+                0x00000000       0x52 CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .debug_aranges
+                0x00000000       0x20 CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .debug_rnglists
+                0x00000000       0x13 CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000       0xff CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000      0xacc CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000       0x6e CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000       0x2a CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000       0x94 CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000       0x3c CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000       0x34 CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000      0x190 CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000       0x57 CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000      0x370 CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000       0x16 CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000       0x4a CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000       0x34 CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000       0x58 CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000      0x1e5 CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000      0x23c CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000      0x103 CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000       0x6a CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000      0x1df CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .debug_line    0x00000000      0x3bd CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .debug_str     0x00000000     0x71c2 CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .comment       0x00000000       0x44 CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .debug_frame   0x00000000       0x28 CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+ .text          0x00000000       0x14 CMakeFiles/4100901-room_control-bare_metal.dir/Startup/startup_stm32l476rgtx.s.obj
+ .data          0x00000000        0x0 CMakeFiles/4100901-room_control-bare_metal.dir/Startup/startup_stm32l476rgtx.s.obj
+ .bss           0x00000000        0x0 CMakeFiles/4100901-room_control-bare_metal.dir/Startup/startup_stm32l476rgtx.s.obj
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-atoi.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-atoi.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-atoi.o)
+ .text._atoi_r  0x00000000        0x8 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-atoi.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-strtol.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-strtol.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-strtol.o)
+ .text._strtol_r
+                0x00000000        0x4 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-strtol.o)
+ .text.strtol_l
+                0x00000000       0x14 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-strtol.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-ctype_.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-ctype_.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-ctype_.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .rodata        0x00000000       0x24 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .eh_frame      0x00000000        0x4 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .ARM.attributes
+                0x00000000       0x34 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+SRAM2            0x10000000         0x00008000         xrw
+RAM              0x20000000         0x00018000         xrw
+FLASH            0x08000000         0x00100000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crti.o
+LOAD C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+LOAD C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+START GROUP
+LOAD C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a
+LOAD C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++.a
+LOAD C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libsupc++.a
+END GROUP
+LOAD CMakeFiles/4100901-room_control-bare_metal.dir/Src/tim.c.obj
+LOAD CMakeFiles/4100901-room_control-bare_metal.dir/Src/room_control.c.obj
+LOAD CMakeFiles/4100901-room_control-bare_metal.dir/Src/nvic.c.obj
+LOAD CMakeFiles/4100901-room_control-bare_metal.dir/Src/uart.c.obj
+LOAD CMakeFiles/4100901-room_control-bare_metal.dir/Src/gpio.c.obj
+LOAD CMakeFiles/4100901-room_control-bare_metal.dir/Src/rcc.c.obj
+LOAD CMakeFiles/4100901-room_control-bare_metal.dir/Src/systick.c.obj
+LOAD CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+LOAD CMakeFiles/4100901-room_control-bare_metal.dir/Src/syscall.c.obj
+LOAD CMakeFiles/4100901-room_control-bare_metal.dir/Src/sysmem.c.obj
+LOAD CMakeFiles/4100901-room_control-bare_metal.dir/Startup/startup_stm32l476rgtx.s.obj
+START GROUP
+LOAD C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a
+LOAD C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a
+END GROUP
+START GROUP
+LOAD C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a
+LOAD C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a
+END GROUP
+LOAD C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtend.o
+LOAD C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtn.o
+                0x20018000                        _estack = (ORIGIN (RAM) + LENGTH (RAM))
+                0x00000200                        _Min_Heap_Size = 0x200
+                0x00000400                        _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x18c
+                0x08000000                        . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x18c CMakeFiles/4100901-room_control-bare_metal.dir/Startup/startup_stm32l476rgtx.s.obj
+                0x08000000                g_pfnVectors
+                0x0800018c                        . = ALIGN (0x4)
+
+.text           0x0800018c      0x79c
+                0x0800018c                        . = ALIGN (0x4)
+ *(.text)
+ .text          0x0800018c       0x40 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.text*)
+ .text.__libc_init_array
+                0x080001cc       0x48 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-init.o)
+                0x080001cc                __libc_init_array
+ .text.__retarget_lock_acquire_recursive
+                0x08000214        0x2 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-lock.o)
+                0x08000214                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x08000216        0x2 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-lock.o)
+                0x08000216                __retarget_lock_release_recursive
+ .text.startup.register_fini
+                0x08000218       0x14 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-__call_atexit.o)
+ .text.atexit   0x0800022c        0xc C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-atexit.o)
+                0x0800022c                atexit
+ .text.__libc_fini_array
+                0x08000238       0x28 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-fini.o)
+                0x08000238                __libc_fini_array
+ .text.__register_exitproc
+                0x08000260       0x80 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-__atexit.o)
+                0x08000260                __register_exitproc
+ .text.__errno  0x080002e0        0xc C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-errno.o)
+                0x080002e0                __errno
+ .text.tim3_ch1_pwm_init
+                0x080002ec       0x44 CMakeFiles/4100901-room_control-bare_metal.dir/Src/tim.c.obj
+                0x080002ec                tim3_ch1_pwm_init
+ .text.tim3_ch1_pwm_set_duty_cycle
+                0x08000330       0x24 CMakeFiles/4100901-room_control-bare_metal.dir/Src/tim.c.obj
+                0x08000330                tim3_ch1_pwm_set_duty_cycle
+ .text.nvic_enable_irq
+                0x08000354       0x20 CMakeFiles/4100901-room_control-bare_metal.dir/Src/nvic.c.obj
+ .text.nvic_set_priority
+                0x08000374       0x12 CMakeFiles/4100901-room_control-bare_metal.dir/Src/nvic.c.obj
+                0x08000374                nvic_set_priority
+ *fill*         0x08000386        0x2 
+ .text.nvic_exti_pc13_button_enable
+                0x08000388       0x48 CMakeFiles/4100901-room_control-bare_metal.dir/Src/nvic.c.obj
+                0x08000388                nvic_exti_pc13_button_enable
+ .text.nvic_usart2_irq_enable
+                0x080003d0       0x20 CMakeFiles/4100901-room_control-bare_metal.dir/Src/nvic.c.obj
+                0x080003d0                nvic_usart2_irq_enable
+ .text.init_gpio_uart
+                0x080003f0       0x34 CMakeFiles/4100901-room_control-bare_metal.dir/Src/uart.c.obj
+                0x080003f0                init_gpio_uart
+ .text.init_uart
+                0x08000424       0x28 CMakeFiles/4100901-room_control-bare_metal.dir/Src/uart.c.obj
+                0x08000424                init_uart
+ .text.uart_send
+                0x0800044c       0x14 CMakeFiles/4100901-room_control-bare_metal.dir/Src/uart.c.obj
+                0x0800044c                uart_send
+ .text.uart_send_string
+                0x08000460       0x14 CMakeFiles/4100901-room_control-bare_metal.dir/Src/uart.c.obj
+                0x08000460                uart_send_string
+ .text.init_gpio
+                0x08000474       0x78 CMakeFiles/4100901-room_control-bare_metal.dir/Src/gpio.c.obj
+                0x08000474                init_gpio
+ .text.set_gpio
+                0x080004ec        0xc CMakeFiles/4100901-room_control-bare_metal.dir/Src/gpio.c.obj
+                0x080004ec                set_gpio
+ .text.clear_gpio
+                0x080004f8        0xe CMakeFiles/4100901-room_control-bare_metal.dir/Src/gpio.c.obj
+                0x080004f8                clear_gpio
+ .text.read_gpio
+                0x08000506       0x12 CMakeFiles/4100901-room_control-bare_metal.dir/Src/gpio.c.obj
+                0x08000506                read_gpio
+ .text.gpio_setup_pin
+                0x08000518       0x52 CMakeFiles/4100901-room_control-bare_metal.dir/Src/gpio.c.obj
+                0x08000518                gpio_setup_pin
+ *fill*         0x0800056a        0x2 
+ .text.rcc_init
+                0x0800056c       0x18 CMakeFiles/4100901-room_control-bare_metal.dir/Src/rcc.c.obj
+                0x0800056c                rcc_init
+ .text.rcc_syscfg_clock_enable
+                0x08000584       0x10 CMakeFiles/4100901-room_control-bare_metal.dir/Src/rcc.c.obj
+                0x08000584                rcc_syscfg_clock_enable
+ .text.rcc_tim3_clock_enable
+                0x08000594       0x10 CMakeFiles/4100901-room_control-bare_metal.dir/Src/rcc.c.obj
+                0x08000594                rcc_tim3_clock_enable
+ .text.init_systick
+                0x080005a4       0x10 CMakeFiles/4100901-room_control-bare_metal.dir/Src/systick.c.obj
+                0x080005a4                init_systick
+ .text.SysTick_Handler
+                0x080005b4       0x10 CMakeFiles/4100901-room_control-bare_metal.dir/Src/systick.c.obj
+                0x080005b4                SysTick_Handler
+ .text.systick_delay_ms
+                0x080005c4       0x14 CMakeFiles/4100901-room_control-bare_metal.dir/Src/systick.c.obj
+                0x080005c4                systick_delay_ms
+ .text.main     0x080005d8      0x178 CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+                0x080005d8                main
+ .text.USART2_IRQHandler
+                0x08000750       0x34 CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+                0x08000750                USART2_IRQHandler
+ .text.EXTI15_10_IRQHandler
+                0x08000784       0x28 CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+                0x08000784                EXTI15_10_IRQHandler
+ .text.Reset_Handler
+                0x080007ac       0x50 CMakeFiles/4100901-room_control-bare_metal.dir/Startup/startup_stm32l476rgtx.s.obj
+                0x080007ac                Reset_Handler
+ .text.Default_Handler
+                0x080007fc        0x2 CMakeFiles/4100901-room_control-bare_metal.dir/Startup/startup_stm32l476rgtx.s.obj
+                0x080007fc                EXTI2_IRQHandler
+                0x080007fc                TIM8_TRG_COM_IRQHandler
+                0x080007fc                TIM8_CC_IRQHandler
+                0x080007fc                DMA1_CH4_IRQHandler
+                0x080007fc                TIM1_CC_IRQHandler
+                0x080007fc                TSC_IRQHandler
+                0x080007fc                HardFault_Handler
+                0x080007fc                TAMP_STAMP_IRQHandler
+                0x080007fc                PendSV_Handler
+                0x080007fc                NMI_Handler
+                0x080007fc                EXTI3_IRQHandler
+                0x080007fc                LPTIM2_IRQHandler
+                0x080007fc                DFSDM1_FLT1_IRQHandler
+                0x080007fc                I2C3_ER_IRQHandler
+                0x080007fc                DFSDM1_FLT2_IRQHandler
+                0x080007fc                TIM6_DACUNDER_IRQHandler
+                0x080007fc                EXTI0_IRQHandler
+                0x080007fc                I2C2_EV_IRQHandler
+                0x080007fc                DMA2_CH1_IRQHandler
+                0x080007fc                CAN1_RX0_IRQHandler
+                0x080007fc                FPU_IRQHandler
+                0x080007fc                TIM1_UP_TIM16_IRQHandler
+                0x080007fc                DMA2_CH7_IRQHandler
+                0x080007fc                UsageFault_Handler
+                0x080007fc                ADC1_2_IRQHandler
+                0x080007fc                SPI1_IRQHandler
+                0x080007fc                DMA1_CH7_IRQHandler
+                0x080007fc                TIM8_UP_IRQHandler
+                0x080007fc                RTC_ALARM_IRQHandler
+                0x080007fc                SAI2_IRQHandler
+                0x080007fc                DFSDM1_FLT3_IRQHandler
+                0x080007fc                DMA1_CH6_IRQHandler
+                0x080007fc                USART3_IRQHandler
+                0x080007fc                CAN1_RX1_IRQHandler
+                0x080007fc                LCD_IRQHandler
+                0x080007fc                UART5_IRQHandler
+                0x080007fc                ADC3_IRQHandler
+                0x080007fc                TIM4_IRQHandler
+                0x080007fc                QUADSPI_IRQHandler
+                0x080007fc                I2C1_EV_IRQHandler
+                0x080007fc                DMA2_CH5_IRQHandler
+                0x080007fc                UART4_IRQHandler
+                0x080007fc                DMA1_CH3_IRQHandler
+                0x080007fc                TIM3_IRQHandler
+                0x080007fc                RCC_IRQHandler
+                0x080007fc                Default_Handler
+                0x080007fc                TIM7_IRQHandler
+                0x080007fc                SDMMC1_IRQHandler
+                0x080007fc                TIM5_IRQHandler
+                0x080007fc                I2C3_EV_IRQHandler
+                0x080007fc                EXTI9_5_IRQHandler
+                0x080007fc                DMA1_CH2_IRQHandler
+                0x080007fc                RTC_WKUP_IRQHandler
+                0x080007fc                PVD_PVM_IRQHandler
+                0x080007fc                SPI2_IRQHandler
+                0x080007fc                DMA1_CH1_IRQHandler
+                0x080007fc                MemManage_Handler
+                0x080007fc                CAN1_TX_IRQHandler
+                0x080007fc                SVC_Handler
+                0x080007fc                CRS_IRQHandler
+                0x080007fc                EXTI4_IRQHandler
+                0x080007fc                RNG_IRQHandler
+                0x080007fc                TIM1_TRG_COM_TIM17_IRQHandler
+                0x080007fc                COMP_IRQHandler
+                0x080007fc                WWDG_IRQHandler
+                0x080007fc                LPUART1_IRQHandler
+                0x080007fc                TIM2_IRQHandler
+                0x080007fc                EXTI1_IRQHandler
+                0x080007fc                DFSDM1_FLT0_IRQHandler
+                0x080007fc                I2C2_ER_IRQHandler
+                0x080007fc                TIM8_BRK_IRQHandler
+                0x080007fc                CAN1_SCE_IRQHandler
+                0x080007fc                FLASH_IRQHandler
+                0x080007fc                BusFault_Handler
+                0x080007fc                USART1_IRQHandler
+                0x080007fc                OTG_FS_IRQHandler
+                0x080007fc                SPI3_IRQHandler
+                0x080007fc                DMA2_CH6_IRQHandler
+                0x080007fc                DMA2_CH3_IRQHandler
+                0x080007fc                DMA2_CH2_IRQHandler
+                0x080007fc                I2C1_ER_IRQHandler
+                0x080007fc                FMC_IRQHandler
+                0x080007fc                DMA1_CH5_IRQHandler
+                0x080007fc                DMA2_CH4_IRQHandler
+                0x080007fc                SWPMI1_IRQHandler
+                0x080007fc                LPTIM1_IRQHandler
+                0x080007fc                SAI1_IRQHandler
+                0x080007fc                TIM1_BRK_TIM15_IRQHandler
+ .text.atoi     0x080007fe        0x8 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-atoi.o)
+                0x080007fe                atoi
+ *fill*         0x08000806        0x2 
+ .text._strtol_l.isra.0
+                0x08000808       0xf4 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-strtol.o)
+ .text.strtol   0x080008fc       0x14 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-strtol.o)
+                0x080008fc                strtol
+ *(.glue_7)
+ .glue_7        0x08000910        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x08000910        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x08000910        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.init)
+ .init          0x08000910        0x4 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x08000910                _init
+ .init          0x08000914        0x8 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtn.o
+ *(.fini)
+ .fini          0x0800091c        0x4 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x0800091c                _fini
+ .fini          0x08000920        0x8 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtn.o
+                0x08000928                        . = ALIGN (0x4)
+                0x08000928                        _etext = .
+
+.vfp11_veneer   0x08000928        0x0
+ .vfp11_veneer  0x08000928        0x0 linker stubs
+
+.v4_bx          0x08000928        0x0
+ .v4_bx         0x08000928        0x0 linker stubs
+
+.iplt           0x08000928        0x0
+ .iplt          0x08000928        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.rodata         0x08000928      0x170
+                0x08000928                        . = ALIGN (0x4)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.main.str1.4
+                0x08000928       0x6e CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+                                 0x4f (size before relaxing)
+ .rodata.USART2_IRQHandler.str1.4
+                0x08000996        0xf CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ .rodata.EXTI15_10_IRQHandler.str1.4
+                0x08000996        0xe CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ .rodata._ctype_
+                0x08000996      0x101 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-ctype_.o)
+                0x08000996                _ctype_
+                0x08000a98                        . = ALIGN (0x4)
+ *fill*         0x08000a97        0x1 
+
+.ARM.extab      0x08000a98        0x0
+                0x08000a98                        . = ALIGN (0x4)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x08000a98                        . = ALIGN (0x4)
+
+.ARM            0x08000a98        0x0
+                0x08000a98                        . = ALIGN (0x4)
+                0x08000a98                        __exidx_start = .
+ *(.ARM.exidx*)
+                0x08000a98                        __exidx_end = .
+                0x08000a98                        . = ALIGN (0x4)
+
+.preinit_array  0x08000a98        0x0
+                0x08000a98                        . = ALIGN (0x4)
+                0x08000a98                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x08000a98                        PROVIDE (__preinit_array_end = .)
+                0x08000a98                        . = ALIGN (0x4)
+
+.init_array     0x08000a98        0x8
+                0x08000a98                        . = ALIGN (0x4)
+                0x08000a98                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ .init_array.00000
+                0x08000a98        0x4 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x08000a9c        0x4 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x08000aa0                        PROVIDE (__init_array_end = .)
+                0x08000aa0                        . = ALIGN (0x4)
+
+.fini_array     0x08000aa0        0x4
+                0x08000aa0                        . = ALIGN (0x4)
+                0x08000aa0                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x08000aa0        0x4 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x08000aa4                        PROVIDE (__fini_array_end = .)
+                0x08000aa4                        . = ALIGN (0x4)
+                0x08000aa4                        _sidata = LOADADDR (.data)
+
+.rel.dyn        0x08000aa4        0x0
+ .rel.iplt      0x08000aa4        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.data           0x20000000      0x14c load address 0x08000aa4
+                0x20000000                        . = ALIGN (0x4)
+                0x20000000                        _sdata = .
+ *(.data)
+ *(.data*)
+ .data._impure_ptr
+                0x20000000        0x4 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-impure.o)
+                0x20000000                _impure_ptr
+ *fill*         0x20000004        0x4 
+ .data._impure_data
+                0x20000008      0x140 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-impure.o)
+                0x20000008                _impure_data
+ .data.__atexit_recursive_mutex
+                0x20000148        0x4 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-__call_atexit.o)
+                0x20000148                __atexit_recursive_mutex
+ *(.RamFunc)
+ *(.RamFunc*)
+                0x2000014c                        . = ALIGN (0x4)
+                0x2000014c                        _edata = .
+
+.igot.plt       0x2000014c        0x0 load address 0x08000bf0
+ .igot.plt      0x2000014c        0x0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x2000014c                        . = ALIGN (0x4)
+
+.bss            0x2000014c      0x3f4 load address 0x08000bf0
+                0x2000014c                        _sbss = .
+                0x2000014c                        __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x2000014c       0x1c C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.bss*)
+ .bss.__sf      0x20000168      0x138 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-findfp.o)
+                0x20000168                __sf
+ .bss.__lock___atexit_recursive_mutex
+                0x200002a0        0x1 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-lock.o)
+                0x200002a0                __lock___atexit_recursive_mutex
+ *fill*         0x200002a1        0x3 
+ .bss.__atexit  0x200002a4        0x4 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-__call_atexit.o)
+                0x200002a4                __atexit
+ .bss.__atexit0
+                0x200002a8      0x190 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-__atexit.o)
+                0x200002a8                __atexit0
+ .bss.systick_ms_count
+                0x20000438        0x4 CMakeFiles/4100901-room_control-bare_metal.dir/Src/systick.c.obj
+                0x20000438                systick_ms_count
+ .bss.rx_index  0x2000043c        0x1 CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ *fill*         0x2000043d        0x3 
+ .bss.rx_buffer
+                0x20000440      0x100 CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ *(COMMON)
+                0x20000540                        . = ALIGN (0x4)
+                0x20000540                        _ebss = .
+                0x20000540                        __bss_end__ = _ebss
+
+._user_heap_stack
+                0x20000540      0x600 load address 0x08000bf0
+                0x20000540                        . = ALIGN (0x8)
+                [!provide]                        PROVIDE (end = .)
+                0x20000540                        PROVIDE (_end = .)
+                0x20000740                        . = (. + _Min_Heap_Size)
+ *fill*         0x20000540      0x200 
+                0x20000b40                        . = (. + _Min_Stack_Size)
+ *fill*         0x20000740      0x400 
+                0x20000b40                        . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x30
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x22 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crti.o
+ .ARM.attributes
+                0x00000022       0x34 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .ARM.attributes
+                0x00000056       0x34 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-findfp.o)
+ .ARM.attributes
+                0x0000008a       0x34 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-impure.o)
+ .ARM.attributes
+                0x000000be       0x34 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-init.o)
+ .ARM.attributes
+                0x000000f2       0x34 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-lock.o)
+ .ARM.attributes
+                0x00000126       0x34 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-__call_atexit.o)
+ .ARM.attributes
+                0x0000015a       0x34 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-atexit.o)
+ .ARM.attributes
+                0x0000018e       0x34 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-fini.o)
+ .ARM.attributes
+                0x000001c2       0x34 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-__atexit.o)
+ .ARM.attributes
+                0x000001f6       0x34 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-errno.o)
+ .ARM.attributes
+                0x0000022a       0x34 CMakeFiles/4100901-room_control-bare_metal.dir/Src/tim.c.obj
+ .ARM.attributes
+                0x0000025e       0x34 CMakeFiles/4100901-room_control-bare_metal.dir/Src/nvic.c.obj
+ .ARM.attributes
+                0x00000292       0x34 CMakeFiles/4100901-room_control-bare_metal.dir/Src/uart.c.obj
+ .ARM.attributes
+                0x000002c6       0x34 CMakeFiles/4100901-room_control-bare_metal.dir/Src/gpio.c.obj
+ .ARM.attributes
+                0x000002fa       0x34 CMakeFiles/4100901-room_control-bare_metal.dir/Src/rcc.c.obj
+ .ARM.attributes
+                0x0000032e       0x34 CMakeFiles/4100901-room_control-bare_metal.dir/Src/systick.c.obj
+ .ARM.attributes
+                0x00000362       0x34 CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ .ARM.attributes
+                0x00000396       0x21 CMakeFiles/4100901-room_control-bare_metal.dir/Startup/startup_stm32l476rgtx.s.obj
+ .ARM.attributes
+                0x000003b7       0x34 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-atoi.o)
+ .ARM.attributes
+                0x000003eb       0x34 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-strtol.o)
+ .ARM.attributes
+                0x0000041f       0x34 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-ctype_.o)
+ .ARM.attributes
+                0x00000453       0x22 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtn.o
+OUTPUT(4100901-room_control-bare_metal.elf elf32-littlearm)
+LOAD linker stubs
+LOAD C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a
+LOAD C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard\libgcc.a
+
+.debug_frame    0x00000000      0x624
+ .debug_frame   0x00000000      0x144 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-findfp.o)
+ .debug_frame   0x00000144       0x2c C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-init.o)
+ .debug_frame   0x00000170       0xb0 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-lock.o)
+ .debug_frame   0x00000220       0x58 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-__call_atexit.o)
+ .debug_frame   0x00000278       0x20 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-atexit.o)
+ .debug_frame   0x00000298       0x38 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-fini.o)
+ .debug_frame   0x000002d0       0x34 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-__atexit.o)
+ .debug_frame   0x00000304       0x20 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-errno.o)
+ .debug_frame   0x00000324       0x38 CMakeFiles/4100901-room_control-bare_metal.dir/Src/tim.c.obj
+ .debug_frame   0x0000035c       0x60 CMakeFiles/4100901-room_control-bare_metal.dir/Src/nvic.c.obj
+ .debug_frame   0x000003bc       0x68 CMakeFiles/4100901-room_control-bare_metal.dir/Src/uart.c.obj
+ .debug_frame   0x00000424       0x80 CMakeFiles/4100901-room_control-bare_metal.dir/Src/gpio.c.obj
+ .debug_frame   0x000004a4       0x40 CMakeFiles/4100901-room_control-bare_metal.dir/Src/rcc.c.obj
+ .debug_frame   0x000004e4       0x50 CMakeFiles/4100901-room_control-bare_metal.dir/Src/systick.c.obj
+ .debug_frame   0x00000534       0x5c CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ .debug_frame   0x00000590       0x30 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-atoi.o)
+ .debug_frame   0x000005c0       0x64 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-strtol.o)
+
+.debug_info     0x00000000     0x319e
+ .debug_info    0x00000000      0x337 CMakeFiles/4100901-room_control-bare_metal.dir/Src/tim.c.obj
+ .debug_info    0x00000337      0x4ba CMakeFiles/4100901-room_control-bare_metal.dir/Src/nvic.c.obj
+ .debug_info    0x000007f1      0x45f CMakeFiles/4100901-room_control-bare_metal.dir/Src/uart.c.obj
+ .debug_info    0x00000c50      0x2f5 CMakeFiles/4100901-room_control-bare_metal.dir/Src/gpio.c.obj
+ .debug_info    0x00000f45      0x275 CMakeFiles/4100901-room_control-bare_metal.dir/Src/rcc.c.obj
+ .debug_info    0x000011ba      0x15a CMakeFiles/4100901-room_control-bare_metal.dir/Src/systick.c.obj
+ .debug_info    0x00001314      0x7e3 CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ .debug_info    0x00001af7       0x30 CMakeFiles/4100901-room_control-bare_metal.dir/Startup/startup_stm32l476rgtx.s.obj
+ .debug_info    0x00001b27      0x814 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-atoi.o)
+ .debug_info    0x0000233b      0xdaa C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-strtol.o)
+ .debug_info    0x000030e5       0xb9 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-ctype_.o)
+
+.debug_abbrev   0x00000000      0xdbf
+ .debug_abbrev  0x00000000      0x12a CMakeFiles/4100901-room_control-bare_metal.dir/Src/tim.c.obj
+ .debug_abbrev  0x0000012a      0x160 CMakeFiles/4100901-room_control-bare_metal.dir/Src/nvic.c.obj
+ .debug_abbrev  0x0000028a       0xf7 CMakeFiles/4100901-room_control-bare_metal.dir/Src/uart.c.obj
+ .debug_abbrev  0x00000381      0x134 CMakeFiles/4100901-room_control-bare_metal.dir/Src/gpio.c.obj
+ .debug_abbrev  0x000004b5       0x92 CMakeFiles/4100901-room_control-bare_metal.dir/Src/rcc.c.obj
+ .debug_abbrev  0x00000547      0x10d CMakeFiles/4100901-room_control-bare_metal.dir/Src/systick.c.obj
+ .debug_abbrev  0x00000654      0x1cd CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ .debug_abbrev  0x00000821       0x24 CMakeFiles/4100901-room_control-bare_metal.dir/Startup/startup_stm32l476rgtx.s.obj
+ .debug_abbrev  0x00000845      0x1ee C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-atoi.o)
+ .debug_abbrev  0x00000a33      0x32a C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-strtol.o)
+ .debug_abbrev  0x00000d5d       0x62 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-ctype_.o)
+
+.debug_loclists
+                0x00000000      0x6fe
+ .debug_loclists
+                0x00000000       0x5a CMakeFiles/4100901-room_control-bare_metal.dir/Src/tim.c.obj
+ .debug_loclists
+                0x0000005a       0x6d CMakeFiles/4100901-room_control-bare_metal.dir/Src/nvic.c.obj
+ .debug_loclists
+                0x000000c7       0x2b CMakeFiles/4100901-room_control-bare_metal.dir/Src/uart.c.obj
+ .debug_loclists
+                0x000000f2       0xf3 CMakeFiles/4100901-room_control-bare_metal.dir/Src/gpio.c.obj
+ .debug_loclists
+                0x000001e5       0x17 CMakeFiles/4100901-room_control-bare_metal.dir/Src/systick.c.obj
+ .debug_loclists
+                0x000001fc       0x7b CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ .debug_loclists
+                0x00000277       0x63 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-atoi.o)
+ .debug_loclists
+                0x000002da      0x424 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-strtol.o)
+
+.debug_aranges  0x00000000      0x218
+ .debug_aranges
+                0x00000000       0x28 CMakeFiles/4100901-room_control-bare_metal.dir/Src/tim.c.obj
+ .debug_aranges
+                0x00000028       0x38 CMakeFiles/4100901-room_control-bare_metal.dir/Src/nvic.c.obj
+ .debug_aranges
+                0x00000060       0x40 CMakeFiles/4100901-room_control-bare_metal.dir/Src/uart.c.obj
+ .debug_aranges
+                0x000000a0       0x40 CMakeFiles/4100901-room_control-bare_metal.dir/Src/gpio.c.obj
+ .debug_aranges
+                0x000000e0       0x30 CMakeFiles/4100901-room_control-bare_metal.dir/Src/rcc.c.obj
+ .debug_aranges
+                0x00000110       0x38 CMakeFiles/4100901-room_control-bare_metal.dir/Src/systick.c.obj
+ .debug_aranges
+                0x00000148       0x30 CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ .debug_aranges
+                0x00000178       0x28 CMakeFiles/4100901-room_control-bare_metal.dir/Startup/startup_stm32l476rgtx.s.obj
+ .debug_aranges
+                0x000001a0       0x28 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-atoi.o)
+ .debug_aranges
+                0x000001c8       0x38 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-strtol.o)
+ .debug_aranges
+                0x00000200       0x18 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-ctype_.o)
+
+.debug_rnglists
+                0x00000000      0x169
+ .debug_rnglists
+                0x00000000       0x19 CMakeFiles/4100901-room_control-bare_metal.dir/Src/tim.c.obj
+ .debug_rnglists
+                0x00000019       0x25 CMakeFiles/4100901-room_control-bare_metal.dir/Src/nvic.c.obj
+ .debug_rnglists
+                0x0000003e       0x2b CMakeFiles/4100901-room_control-bare_metal.dir/Src/uart.c.obj
+ .debug_rnglists
+                0x00000069       0x2b CMakeFiles/4100901-room_control-bare_metal.dir/Src/gpio.c.obj
+ .debug_rnglists
+                0x00000094       0x1f CMakeFiles/4100901-room_control-bare_metal.dir/Src/rcc.c.obj
+ .debug_rnglists
+                0x000000b3       0x25 CMakeFiles/4100901-room_control-bare_metal.dir/Src/systick.c.obj
+ .debug_rnglists
+                0x000000d8       0x39 CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ .debug_rnglists
+                0x00000111       0x19 CMakeFiles/4100901-room_control-bare_metal.dir/Startup/startup_stm32l476rgtx.s.obj
+ .debug_rnglists
+                0x0000012a       0x19 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-atoi.o)
+ .debug_rnglists
+                0x00000143       0x26 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-strtol.o)
+
+.debug_macro    0x00000000     0x145b
+ .debug_macro   0x00000000       0x8c CMakeFiles/4100901-room_control-bare_metal.dir/Src/tim.c.obj
+ .debug_macro   0x0000008c      0xacc CMakeFiles/4100901-room_control-bare_metal.dir/Src/tim.c.obj
+ .debug_macro   0x00000b58       0x22 CMakeFiles/4100901-room_control-bare_metal.dir/Src/tim.c.obj
+ .debug_macro   0x00000b7a       0x8e CMakeFiles/4100901-room_control-bare_metal.dir/Src/tim.c.obj
+ .debug_macro   0x00000c08       0x51 CMakeFiles/4100901-room_control-bare_metal.dir/Src/tim.c.obj
+ .debug_macro   0x00000c59      0x103 CMakeFiles/4100901-room_control-bare_metal.dir/Src/tim.c.obj
+ .debug_macro   0x00000d5c       0x6a CMakeFiles/4100901-room_control-bare_metal.dir/Src/tim.c.obj
+ .debug_macro   0x00000dc6      0x1df CMakeFiles/4100901-room_control-bare_metal.dir/Src/tim.c.obj
+ .debug_macro   0x00000fa5       0x8e CMakeFiles/4100901-room_control-bare_metal.dir/Src/tim.c.obj
+ .debug_macro   0x00001033       0x16 CMakeFiles/4100901-room_control-bare_metal.dir/Src/tim.c.obj
+ .debug_macro   0x00001049       0x34 CMakeFiles/4100901-room_control-bare_metal.dir/Src/tim.c.obj
+ .debug_macro   0x0000107d       0x8b CMakeFiles/4100901-room_control-bare_metal.dir/Src/nvic.c.obj
+ .debug_macro   0x00001108       0x40 CMakeFiles/4100901-room_control-bare_metal.dir/Src/nvic.c.obj
+ .debug_macro   0x00001148       0x7e CMakeFiles/4100901-room_control-bare_metal.dir/Src/uart.c.obj
+ .debug_macro   0x000011c6       0x72 CMakeFiles/4100901-room_control-bare_metal.dir/Src/gpio.c.obj
+ .debug_macro   0x00001238       0x88 CMakeFiles/4100901-room_control-bare_metal.dir/Src/gpio.c.obj
+ .debug_macro   0x000012c0       0x72 CMakeFiles/4100901-room_control-bare_metal.dir/Src/rcc.c.obj
+ .debug_macro   0x00001332       0x10 CMakeFiles/4100901-room_control-bare_metal.dir/Src/rcc.c.obj
+ .debug_macro   0x00001342       0x72 CMakeFiles/4100901-room_control-bare_metal.dir/Src/systick.c.obj
+ .debug_macro   0x000013b4       0xa7 CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+
+.debug_line     0x00000000     0x25b5
+ .debug_line    0x00000000      0x3ec CMakeFiles/4100901-room_control-bare_metal.dir/Src/tim.c.obj
+ .debug_line    0x000003ec      0x428 CMakeFiles/4100901-room_control-bare_metal.dir/Src/nvic.c.obj
+ .debug_line    0x00000814      0x475 CMakeFiles/4100901-room_control-bare_metal.dir/Src/uart.c.obj
+ .debug_line    0x00000c89      0x4b9 CMakeFiles/4100901-room_control-bare_metal.dir/Src/gpio.c.obj
+ .debug_line    0x00001142      0x3b1 CMakeFiles/4100901-room_control-bare_metal.dir/Src/rcc.c.obj
+ .debug_line    0x000014f3      0x3e3 CMakeFiles/4100901-room_control-bare_metal.dir/Src/systick.c.obj
+ .debug_line    0x000018d6      0x4df CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ .debug_line    0x00001db5       0x7b CMakeFiles/4100901-room_control-bare_metal.dir/Startup/startup_stm32l476rgtx.s.obj
+ .debug_line    0x00001e30      0x1ee C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-atoi.o)
+ .debug_line    0x0000201e      0x4c1 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-strtol.o)
+ .debug_line    0x000024df       0xd6 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-ctype_.o)
+
+.debug_str      0x00000000     0x51f0
+ .debug_str     0x00000000     0x51f0 CMakeFiles/4100901-room_control-bare_metal.dir/Src/tim.c.obj
+                               0x42d3 (size before relaxing)
+ .debug_str     0x000051f0     0x43d6 CMakeFiles/4100901-room_control-bare_metal.dir/Src/nvic.c.obj
+ .debug_str     0x000051f0     0x42e7 CMakeFiles/4100901-room_control-bare_metal.dir/Src/uart.c.obj
+ .debug_str     0x000051f0     0x4117 CMakeFiles/4100901-room_control-bare_metal.dir/Src/gpio.c.obj
+ .debug_str     0x000051f0     0x3fd6 CMakeFiles/4100901-room_control-bare_metal.dir/Src/rcc.c.obj
+ .debug_str     0x000051f0     0x3ee1 CMakeFiles/4100901-room_control-bare_metal.dir/Src/systick.c.obj
+ .debug_str     0x000051f0     0x4577 CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ .debug_str     0x000051f0      0x134 CMakeFiles/4100901-room_control-bare_metal.dir/Startup/startup_stm32l476rgtx.s.obj
+ .debug_str     0x000051f0      0x535 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-atoi.o)
+ .debug_str     0x000051f0      0x7b2 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-strtol.o)
+ .debug_str     0x000051f0      0x205 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-ctype_.o)
+
+.comment        0x00000000       0x43
+ .comment       0x00000000       0x43 CMakeFiles/4100901-room_control-bare_metal.dir/Src/tim.c.obj
+                                 0x44 (size before relaxing)
+ .comment       0x00000043       0x44 CMakeFiles/4100901-room_control-bare_metal.dir/Src/nvic.c.obj
+ .comment       0x00000043       0x44 CMakeFiles/4100901-room_control-bare_metal.dir/Src/uart.c.obj
+ .comment       0x00000043       0x44 CMakeFiles/4100901-room_control-bare_metal.dir/Src/gpio.c.obj
+ .comment       0x00000043       0x44 CMakeFiles/4100901-room_control-bare_metal.dir/Src/rcc.c.obj
+ .comment       0x00000043       0x44 CMakeFiles/4100901-room_control-bare_metal.dir/Src/systick.c.obj
+ .comment       0x00000043       0x44 CMakeFiles/4100901-room_control-bare_metal.dir/Src/main.c.obj
+ .comment       0x00000043       0x44 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-atoi.o)
+ .comment       0x00000043       0x44 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-strtol.o)
+ .comment       0x00000043       0x44 C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(libc_a-ctype_.o)
+
+.debug_line_str
+                0x00000000      0x118
+ .debug_line_str
+                0x00000000      0x118 CMakeFiles/4100901-room_control-bare_metal.dir/Startup/startup_stm32l476rgtx.s.obj

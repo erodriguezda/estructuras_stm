@@ -1,0 +1,68 @@
+[
+{
+  "directory": "C:/Users/ASUS/OneDrive/Desktop/2025-2/estructuras_stm/4100901-room_control-bare_metal/4100901-room_control-bare_metal/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.19.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -IC:/Users/ASUS/OneDrive/Desktop/2025-2/estructuras_stm/4100901-room_control-bare_metal/4100901-room_control-bare_metal/Inc -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\4100901-room_control-bare_metal.dir\\Src\\tim.c.obj -c C:\\Users\\ASUS\\OneDrive\\Desktop\\2025-2\\estructuras_stm\\4100901-room_control-bare_metal\\4100901-room_control-bare_metal\\Src\\tim.c",
+  "file": "C:\\Users\\ASUS\\OneDrive\\Desktop\\2025-2\\estructuras_stm\\4100901-room_control-bare_metal\\4100901-room_control-bare_metal\\Src\\tim.c",
+  "output": "CMakeFiles\\4100901-room_control-bare_metal.dir\\Src\\tim.c.obj"
+},
+{
+  "directory": "C:/Users/ASUS/OneDrive/Desktop/2025-2/estructuras_stm/4100901-room_control-bare_metal/4100901-room_control-bare_metal/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.19.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -IC:/Users/ASUS/OneDrive/Desktop/2025-2/estructuras_stm/4100901-room_control-bare_metal/4100901-room_control-bare_metal/Inc -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\4100901-room_control-bare_metal.dir\\Src\\room_control.c.obj -c C:\\Users\\ASUS\\OneDrive\\Desktop\\2025-2\\estructuras_stm\\4100901-room_control-bare_metal\\4100901-room_control-bare_metal\\Src\\room_control.c",
+  "file": "C:\\Users\\ASUS\\OneDrive\\Desktop\\2025-2\\estructuras_stm\\4100901-room_control-bare_metal\\4100901-room_control-bare_metal\\Src\\room_control.c",
+  "output": "CMakeFiles\\4100901-room_control-bare_metal.dir\\Src\\room_control.c.obj"
+},
+{
+  "directory": "C:/Users/ASUS/OneDrive/Desktop/2025-2/estructuras_stm/4100901-room_control-bare_metal/4100901-room_control-bare_metal/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.19.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -IC:/Users/ASUS/OneDrive/Desktop/2025-2/estructuras_stm/4100901-room_control-bare_metal/4100901-room_control-bare_metal/Inc -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\4100901-room_control-bare_metal.dir\\Src\\nvic.c.obj -c C:\\Users\\ASUS\\OneDrive\\Desktop\\2025-2\\estructuras_stm\\4100901-room_control-bare_metal\\4100901-room_control-bare_metal\\Src\\nvic.c",
+  "file": "C:\\Users\\ASUS\\OneDrive\\Desktop\\2025-2\\estructuras_stm\\4100901-room_control-bare_metal\\4100901-room_control-bare_metal\\Src\\nvic.c",
+  "output": "CMakeFiles\\4100901-room_control-bare_metal.dir\\Src\\nvic.c.obj"
+},
+{
+  "directory": "C:/Users/ASUS/OneDrive/Desktop/2025-2/estructuras_stm/4100901-room_control-bare_metal/4100901-room_control-bare_metal/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.19.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -IC:/Users/ASUS/OneDrive/Desktop/2025-2/estructuras_stm/4100901-room_control-bare_metal/4100901-room_control-bare_metal/Inc -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\4100901-room_control-bare_metal.dir\\Src\\uart.c.obj -c C:\\Users\\ASUS\\OneDrive\\Desktop\\2025-2\\estructuras_stm\\4100901-room_control-bare_metal\\4100901-room_control-bare_metal\\Src\\uart.c",
+  "file": "C:\\Users\\ASUS\\OneDrive\\Desktop\\2025-2\\estructuras_stm\\4100901-room_control-bare_metal\\4100901-room_control-bare_metal\\Src\\uart.c",
+  "output": "CMakeFiles\\4100901-room_control-bare_metal.dir\\Src\\uart.c.obj"
+},
+{
+  "directory": "C:/Users/ASUS/OneDrive/Desktop/2025-2/estructuras_stm/4100901-room_control-bare_metal/4100901-room_control-bare_metal/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.19.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -IC:/Users/ASUS/OneDrive/Desktop/2025-2/estructuras_stm/4100901-room_control-bare_metal/4100901-room_control-bare_metal/Inc -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\4100901-room_control-bare_metal.dir\\Src\\gpio.c.obj -c C:\\Users\\ASUS\\OneDrive\\Desktop\\2025-2\\estructuras_stm\\4100901-room_control-bare_metal\\4100901-room_control-bare_metal\\Src\\gpio.c",
+  "file": "C:\\Users\\ASUS\\OneDrive\\Desktop\\2025-2\\estructuras_stm\\4100901-room_control-bare_metal\\4100901-room_control-bare_metal\\Src\\gpio.c",
+  "output": "CMakeFiles\\4100901-room_control-bare_metal.dir\\Src\\gpio.c.obj"
+},
+{
+  "directory": "C:/Users/ASUS/OneDrive/Desktop/2025-2/estructuras_stm/4100901-room_control-bare_metal/4100901-room_control-bare_metal/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.19.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -IC:/Users/ASUS/OneDrive/Desktop/2025-2/estructuras_stm/4100901-room_control-bare_metal/4100901-room_control-bare_metal/Inc -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\4100901-room_control-bare_metal.dir\\Src\\rcc.c.obj -c C:\\Users\\ASUS\\OneDrive\\Desktop\\2025-2\\estructuras_stm\\4100901-room_control-bare_metal\\4100901-room_control-bare_metal\\Src\\rcc.c",
+  "file": "C:\\Users\\ASUS\\OneDrive\\Desktop\\2025-2\\estructuras_stm\\4100901-room_control-bare_metal\\4100901-room_control-bare_metal\\Src\\rcc.c",
+  "output": "CMakeFiles\\4100901-room_control-bare_metal.dir\\Src\\rcc.c.obj"
+},
+{
+  "directory": "C:/Users/ASUS/OneDrive/Desktop/2025-2/estructuras_stm/4100901-room_control-bare_metal/4100901-room_control-bare_metal/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.19.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -IC:/Users/ASUS/OneDrive/Desktop/2025-2/estructuras_stm/4100901-room_control-bare_metal/4100901-room_control-bare_metal/Inc -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\4100901-room_control-bare_metal.dir\\Src\\systick.c.obj -c C:\\Users\\ASUS\\OneDrive\\Desktop\\2025-2\\estructuras_stm\\4100901-room_control-bare_metal\\4100901-room_control-bare_metal\\Src\\systick.c",
+  "file": "C:\\Users\\ASUS\\OneDrive\\Desktop\\2025-2\\estructuras_stm\\4100901-room_control-bare_metal\\4100901-room_control-bare_metal\\Src\\systick.c",
+  "output": "CMakeFiles\\4100901-room_control-bare_metal.dir\\Src\\systick.c.obj"
+},
+{
+  "directory": "C:/Users/ASUS/OneDrive/Desktop/2025-2/estructuras_stm/4100901-room_control-bare_metal/4100901-room_control-bare_metal/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.19.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -IC:/Users/ASUS/OneDrive/Desktop/2025-2/estructuras_stm/4100901-room_control-bare_metal/4100901-room_control-bare_metal/Inc -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\4100901-room_control-bare_metal.dir\\Src\\main.c.obj -c C:\\Users\\ASUS\\OneDrive\\Desktop\\2025-2\\estructuras_stm\\4100901-room_control-bare_metal\\4100901-room_control-bare_metal\\Src\\main.c",
+  "file": "C:\\Users\\ASUS\\OneDrive\\Desktop\\2025-2\\estructuras_stm\\4100901-room_control-bare_metal\\4100901-room_control-bare_metal\\Src\\main.c",
+  "output": "CMakeFiles\\4100901-room_control-bare_metal.dir\\Src\\main.c.obj"
+},
+{
+  "directory": "C:/Users/ASUS/OneDrive/Desktop/2025-2/estructuras_stm/4100901-room_control-bare_metal/4100901-room_control-bare_metal/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.19.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -IC:/Users/ASUS/OneDrive/Desktop/2025-2/estructuras_stm/4100901-room_control-bare_metal/4100901-room_control-bare_metal/Inc -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\4100901-room_control-bare_metal.dir\\Src\\syscall.c.obj -c C:\\Users\\ASUS\\OneDrive\\Desktop\\2025-2\\estructuras_stm\\4100901-room_control-bare_metal\\4100901-room_control-bare_metal\\Src\\syscall.c",
+  "file": "C:\\Users\\ASUS\\OneDrive\\Desktop\\2025-2\\estructuras_stm\\4100901-room_control-bare_metal\\4100901-room_control-bare_metal\\Src\\syscall.c",
+  "output": "CMakeFiles\\4100901-room_control-bare_metal.dir\\Src\\syscall.c.obj"
+},
+{
+  "directory": "C:/Users/ASUS/OneDrive/Desktop/2025-2/estructuras_stm/4100901-room_control-bare_metal/4100901-room_control-bare_metal/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.19.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -IC:/Users/ASUS/OneDrive/Desktop/2025-2/estructuras_stm/4100901-room_control-bare_metal/4100901-room_control-bare_metal/Inc -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\4100901-room_control-bare_metal.dir\\Src\\sysmem.c.obj -c C:\\Users\\ASUS\\OneDrive\\Desktop\\2025-2\\estructuras_stm\\4100901-room_control-bare_metal\\4100901-room_control-bare_metal\\Src\\sysmem.c",
+  "file": "C:\\Users\\ASUS\\OneDrive\\Desktop\\2025-2\\estructuras_stm\\4100901-room_control-bare_metal\\4100901-room_control-bare_metal\\Src\\sysmem.c",
+  "output": "CMakeFiles\\4100901-room_control-bare_metal.dir\\Src\\sysmem.c.obj"
+},
+{
+  "directory": "C:/Users/ASUS/OneDrive/Desktop/2025-2/estructuras_stm/4100901-room_control-bare_metal/4100901-room_control-bare_metal/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.19.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -IC:/Users/ASUS/OneDrive/Desktop/2025-2/estructuras_stm/4100901-room_control-bare_metal/4100901-room_control-bare_metal -g -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -x assembler-with-cpp -MMD -MP -Og -g3 -ggdb -o CMakeFiles\\4100901-room_control-bare_metal.dir\\Startup\\startup_stm32l476rgtx.s.obj -c C:\\Users\\ASUS\\OneDrive\\Desktop\\2025-2\\estructuras_stm\\4100901-room_control-bare_metal\\4100901-room_control-bare_metal\\Startup\\startup_stm32l476rgtx.s",
+  "file": "C:\\Users\\ASUS\\OneDrive\\Desktop\\2025-2\\estructuras_stm\\4100901-room_control-bare_metal\\4100901-room_control-bare_metal\\Startup\\startup_stm32l476rgtx.s",
+  "output": "CMakeFiles\\4100901-room_control-bare_metal.dir\\Startup\\startup_stm32l476rgtx.s.obj"
+}
+]

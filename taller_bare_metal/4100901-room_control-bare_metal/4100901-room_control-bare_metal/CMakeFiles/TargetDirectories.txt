@@ -1,0 +1,3 @@
+C:/Users/ASUS/OneDrive/Desktop/2025-2/estructuras stm/4100901-room_control-bare_metal/4100901-room_control-bare_metal/CMakeFiles/4100901-room_control-bare_metal.dir
+C:/Users/ASUS/OneDrive/Desktop/2025-2/estructuras stm/4100901-room_control-bare_metal/4100901-room_control-bare_metal/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/OneDrive/Desktop/2025-2/estructuras stm/4100901-room_control-bare_metal/4100901-room_control-bare_metal/CMakeFiles/rebuild_cache.dir

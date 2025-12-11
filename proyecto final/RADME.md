@@ -26,7 +26,7 @@ El sistema está diseñado para el control domótico de un ventilador, integrand
   * **Sensor de Movimiento (PIR):** Sensor digital para detectar presencia humana.
 * **Interfaz Humano-Máquina (HMI) Local:**
   * **Pantalla OLED (SH1106):** Pantalla gráfica conectada vía I2C para mostrar el estado del sistema, temperatura, velocidad actual y retroalimentación.
-  * **Teclado Matricial (3x4):** Permite la entrada manual de datos, específicamente para autenticación local.
+  * **Teclado Matricial (4x4):** Permite la entrada manual de datos, específicamente para autenticación local.
 * **Almacenamiento:** Memoria Flash del ESP32, particionada para soportar NVS y particiones OTA.
 
 ### 2.2. Diagrama de Bloques del Hardware

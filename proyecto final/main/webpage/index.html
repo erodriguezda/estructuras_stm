@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ventilador Inteligente ESP32</title>
+    <style>
+        body { font-family: 'Segoe UI', Arial, sans-serif; margin: 0; padding: 20px; background-color: #f0f2f5; color: #333; }
+        .container { max-width: 600px; margin: 0 auto; }
+        .card { background: white; padding: 20px; margin-bottom: 20px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+        h2 { margin-top: 0; border-bottom: 2px solid #007bff; padding-bottom: 10px; font-size: 1.2rem; }
+        
+        /* Grid de Estado */
+        .stat-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; }
+        .stat-box { background: #e9ecef; padding: 15px; text-align: center; border-radius: 8px; }
+        .stat-val { display: block; font-size: 1.4em; font-weight: bold; color: #007bff; margin-top: 5px; }
+        
+        /* Controles */
+        label { display: block; margin: 15px 0 5px; font-weight: 600; font-size: 0.9em; }
+        input[type="number"], select, input[type="file"] { width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 6px; box-sizing: border-box; }
+        input[type="checkbox"] { width: auto; margin-right: 10px; }
+        button { background: #007bff; color: white; border: none; padding: 12px; margin-top: 20px; cursor: pointer; border-radius: 6px; width: 100%; font-size: 1rem; transition: background 0.3s; }
+        button:hover { background: #0056b3; }
+        button.ota-btn { background: #6c757d; }
+        button.ota-btn:hover { background: #5a6268; }
+
+        /* Paneles */
+        .hidden { display: none; }
+        
+        /* Tabla de Horarios */
+        .sched-card { background: #f8f9fa; border: 1px solid #e9ecef; padding: 10px; margin-bottom: 10px; border-radius: 8px; }
+        .sched-row { display: flex; gap: 10px; margin-bottom: 5px; }
+        .sched-row input { flex: 1; }
+        .sched-title { font-weight: bold; color: #555; margin-bottom: 5px; display: block; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="card">
+        <h2>📊 Estado del Sistema</h2>
+        <div class="stat-grid">
+            <div class="stat-box">🌡 Temp <span id="disp_temp" class="stat-val">-- °C</span></div>
+            <div class="stat-box">👁 Sensor PIR <span id="disp_pir" class="stat-val">--</span></div>
+            <div class="stat-box">💨 Motor PWM <span id="disp_pwm" class="stat-val">-- %</span></div>
+            <div class="stat-box">⚙ Modo <span id="disp_mode" class="stat-val">--</span></div>
+        </div>
+    </div>
+
+    <div class="card">
+        <h2>🛠 Configuración</h2>
+        <label>Modo de Operación:</label>
+        <select id="mode_select" onchange="changeModeUI()">
+            <option value="0">Manual (Fijo)</option>
+            <option value="1">Automático (Sensor + Temp)</option>
+            <option value="2">Programado (Horario + Sensor)</option>
+        </select>
+
+        <div id="manual_panel" class="hidden">
+            <label>Velocidad Manual (0-100%): <span id="pwm_val_lbl">50</span>%</label>
+            <input type="range" id="manual_pwm" min="0" max="100" style="width:100%" oninput="document.getElementById('pwm_val_lbl').innerText = this.value">
+        </div>
+
+        <div id="auto_panel" class="hidden">
+            <div class="sched-row">
+                <div style="flex:1">
+                    <label>T. Mín (0%)</label>
+                    <input type="number" id="auto_tmin" step="0.1" placeholder="Ej: 20.0">
+                </div>
+                <div style="flex:1">
+                    <label>T. Máx (100%)</label>
+                    <input type="number" id="auto_tmax" step="0.1" placeholder="Ej: 30.0">
+                </div>
+            </div>
+            <p style="font-size: 0.8em; color: #666;">El ventilador modulará su velocidad entre estas temperaturas si hay presencia.</p>
+        </div>
+
+        <div id="prog_panel" class="hidden">
+            <p style="font-size: 0.9em; color:#d63384;">Requiere hora sincronizada (NTP) y detección de Presencia.</p>
+            <div id="schedules_container">
+                </div>
+        </div>
+
+        <button onclick="saveSettings()">💾 Guardar Todo</button>
+    </div>
+
+    <div class="card">
+        <h2>📲 Actualizar Firmware (OTA)</h2>
+        <label>Seleccionar archivo (.bin):</label>
+        <input type="file" id="ota_file" accept=".bin">
+        <button class="ota-btn" onclick="uploadOTA()">Subir Actualización</button>
+        <p id="ota_status" style="text-align: center; margin-top: 10px; font-weight: bold;"></p>
+    </div>
+</div>
+
+<script>
+    let currentSchedules = [];
+
+    // 1. INICIALIZAR
+    window.onload = async () => {
+        await loadData(); // Cargar datos guardados
+        setInterval(loadData, 2000); // Refrescar estado cada 2s
+    };
+
+    // 2. CARGAR DATOS DEL ESP32
+    async function loadData() {
+        try {
+            const res = await fetch('/api/status');
+            const data = await res.json();
+
+            // Actualizar Estado
+            document.getElementById('disp_temp').innerText = data.temp.toFixed(1) + " °C";
+            document.getElementById('disp_pir').innerText = data.pir ? "DETECTADO" : "Inactivo";
+            document.getElementById('disp_pwm').innerText = data.pwm + " %";
+            const modes = ["Manual", "Auto", "Programado"];
+            document.getElementById('disp_mode').innerText = modes[data.mode] || "Desc.";
+
+            // Solo rellenar inputs si NO estamos editando (simple check)
+            // Para simplificar, aquí cargamos datos en inputs solo la primera vez o manualmente
+            if (!window.loaded) {
+                document.getElementById('mode_select').value = data.mode;
+                document.getElementById('manual_pwm').value = data.man_pwm;
+                document.getElementById('pwm_val_lbl').innerText = data.man_pwm;
+                document.getElementById('auto_tmin').value = data.a_min;
+                document.getElementById('auto_tmax').value = data.a_max;
+                
+                // Cargar Schedules
+                currentSchedules = data.schedules || [];
+                renderSchedules();
+                
+                changeModeUI();
+                window.loaded = true;
+            }
+        } catch (e) { console.error("Error cargando datos", e); }
+    }
+
+    // 3. RENDERIZAR LOS 3 REGISTROS DE HORARIO
+    function renderSchedules() {
+        const container = document.getElementById('schedules_container');
+        container.innerHTML = ''; // Limpiar
+
+        // Si el array viene vacío del ESP, creamos 3 por defecto
+        if(currentSchedules.length === 0) {
+            for(let i=0; i<3; i++) currentSchedules.push({act:0, sh:0, eh:0, t0:20, t100:30});
+        }
+
+        currentSchedules.forEach((sch, idx) => {
+            const html = `
+            <div class="sched-card">
+                <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:5px;">
+                    <span class="sched-title">Registro #${idx + 1}</span>
+                    <label style="margin:0"><input type="checkbox" id="sch_act_${idx}" ${sch.act ? 'checked' : ''}> Activo</label>
+                </div>
+                <div class="sched-row">
+                    <input type="number" placeholder="Hora Inicio (0-23)" id="sch_sh_${idx}" value="${sch.sh}" min="0" max="23">
+                    <input type="number" placeholder="Hora Fin (0-23)" id="sch_eh_${idx}" value="${sch.eh}" min="0" max="23">
+                </div>
+                <div class="sched-row">
+                    <input type="number" placeholder="T. Mín" id="sch_t0_${idx}" value="${sch.t0}" step="0.1">
+                    <input type="number" placeholder="T. Máx" id="sch_t100_${idx}" value="${sch.t100}" step="0.1">
+                </div>
+            </div>`;
+            container.innerHTML += html;
+        });
+    }
+
+    // 4. CAMBIAR UI
+    function changeModeUI() {
+        const mode = document.getElementById('mode_select').value;
+        document.getElementById('manual_panel').classList.add('hidden');
+        document.getElementById('auto_panel').classList.add('hidden');
+        document.getElementById('prog_panel').classList.add('hidden');
+
+        if(mode == '0') document.getElementById('manual_panel').classList.remove('hidden');
+        if(mode == '1') document.getElementById('auto_panel').classList.remove('hidden');
+        if(mode == '2') document.getElementById('prog_panel').classList.remove('hidden');
+    }
+
+    // 5. GUARDAR TODO (POST)
+    async function saveSettings() {
+        const mode = parseInt(document.getElementById('mode_select').value);
+        
+        // Recolectar datos de los 3 registros
+        const newSchedules = [];
+        for(let i=0; i<3; i++) {
+            newSchedules.push({
+                act: document.getElementById(`sch_act_${i}`).checked ? 1 : 0,
+                sh: parseInt(document.getElementById(`sch_sh_${i}`).value) || 0,
+                eh: parseInt(document.getElementById(`sch_eh_${i}`).value) || 0,
+                t0: parseFloat(document.getElementById(`sch_t0_${i}`).value) || 0,
+                t100: parseFloat(document.getElementById(`sch_t100_${i}`).value) || 0
+            });
+        }
+
+        const payload = {
+            mode: mode,
+            manual_pwm: parseInt(document.getElementById('manual_pwm').value),
+            auto_tmin: parseFloat(document.getElementById('auto_tmin').value),
+            auto_tmax: parseFloat(document.getElementById('auto_tmax').value),
+            schedules: newSchedules
+        };
+
+        try {
+            const res = await fetch('/api/settings', {
+                method: 'POST',
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify(payload)
+            });
+            if(res.ok) alert("✅ Configuración guardada correctamente");
+            else alert("❌ Error al guardar");
+        } catch(e) { alert("❌ Error de conexión"); }
+    }
+
+    // 6. FUNCION OTA
+    async function uploadOTA() {
+        const fileInput = document.getElementById('ota_file');
+        const status = document.getElementById('ota_status');
+        if (!fileInput.files[0]) { alert("Selecciona un archivo .bin"); return; }
+
+        status.innerText = "⏳ Subiendo firmware... No desconecte.";
+        status.style.color = "blue";
+        
+        const body = fileInput.files[0];
+        try {
+            const res = await fetch('/ota', { method: 'POST', body: body });
+            if (res.ok) {
+                status.innerText = "✅ ¡Actualización exitosa! Reiniciando...";
+                status.style.color = "green";
+                setTimeout(() => location.reload(), 8000);
+            } else {
+                status.innerText = "❌ Falló la actualización.";
+                status.style.color = "red";
+            }
+        } catch (e) {
+            status.innerText = "❌ Error de conexión.";
+            status.style.color = "red";
+        }
+    }
+</script>
+</body>
+</html>

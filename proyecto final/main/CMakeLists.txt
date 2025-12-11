@@ -1,0 +1,16 @@
+idf_component_register(
+    SRCS
+        "main.c"
+        "Display.c"
+        "http_server.c"
+        "keypad.c"
+        "Motor.c"
+        "Sensor.c"
+        "Temp_LM35.c"
+        "wifi_app.c"
+        "LedRGB.c"
+    INCLUDE_DIRS
+        "."
+    EMBED_TXTFILES
+        "webpage/index.html"
+)
